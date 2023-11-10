@@ -12,7 +12,7 @@ This is the method most people may use as this one activates it PERMANENT.
 
 
 # IF you want to change product key or you ver like from home to pro 
-# refer to  /key.md #
+# click [here](https://github.com/nityam2007/win-office/key.md) #
 
 # All win and office downlaod no crack but works with this activation script 
 
