@@ -9,3 +9,8 @@ This is the method most people may use as this one activates it PERMANENT.
 5. Wait until the windows for the activation tool pops up.
 6. Choose the option for HWID Activation by pressing the key associated with it.
 7. Wait until it completes. It might give an SKU value error, but it will complete successfully. If it doesn't try again a few times and it should work.
+
+
+# All win and office downlaod no crack but works with this activation script 
+
+https://massgrave.dev/genuine-installation-media.html
